@@ -14,17 +14,17 @@ SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "8249098387:AAG8f71BFd68ikKqaU81GcWRXA3bCCRomhw"
+TOKEN = "8386735278:AAGwyRFqhTrYVHapnUqC3TmVJbtBWWDq7FQ"
 API_ID = "27642526"
 API_HASH = "8bc14441805c29b64843165c1d73ce31"
 WORKERS = 5
 
-DB_URI = "mongodb+srv://tutybhai:786780@cluster0.iueiubc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = "tutybhai"
+DB_URI = "mongodb+srv://rihanbhai:12345@cluster0.mpvjyab.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_NAME = "rihanbhai"
 
-FSUBS = [[-1003192767149, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1003114997229, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
-DB_CHANNEL =-1002874991507    # just put channel id dont add ""
+DB_CHANNEL = -1003072273719    # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002595092736": {"name": "Primary DB", "is_primary": True, "is_active": True},
@@ -33,7 +33,7 @@ DB_CHANNEL =-1002874991507    # just put channel id dont add ""
 # Auto Delete Timer (seconds)
 AUTO_DEL = 900
 # Admin IDs
-ADMINS = [6497757690, 6103092779]
+ADMINS = [6462248335]
 # Bot Settings
 DISABLE_BTN = True
 PROTECT = True

@@ -47,8 +47,8 @@ MESSAGES = {
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n\n ⌯ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..</b>",
     "START_PHOTO": "https://i.ibb.co/671SqSMt/x.jpg",
     "FSUB_PHOTO": "https://i.ibb.co/671SqSMt/x.jpg",
-    "SHORT_PIC": "https://i.ibb.co/671SqSMt/x.jpg",
-    "SHORT": "https://i.ibb.co/671SqSMt/x.jpg"
+    "SHORT_PIC": "https://exact-tomato-yakv4t5lbg.edgeone.app/Anime-Girl-and-Underwater-Fishes-Wallpaper-for-Wall.jpg",
+    "SHORT": "Checking Subscription ..."
 }
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
